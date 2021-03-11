@@ -1,0 +1,49 @@
+header{
+    background-image: url("./image/photo1.jpeg");
+    height: 100px;
+    background-size: contain;
+    padding: .1px;
+    border: 2px none
+}
+
+h1{
+    font-size: 45px;
+    color: orange;
+    text-align: center;
+    margin-top: 25px;
+}
+td h6{
+    font-size: 24px;
+    margin: 20px 0px;
+    color: white;
+}
+td img{
+    height: 180px;
+    width: 180px;
+    border: 2px solid yellowgreen;
+    border-radius: 6px;
+}
+td .price{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 25px;
+    color: white;
+}
+
+td button{
+    background-color: yellowgreen;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 4px;
+}
+table{
+    width: 1000px;
+    margin-left: 350px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+body{
+    background-image: url("./image/photo1.jpeg");
+
+}
